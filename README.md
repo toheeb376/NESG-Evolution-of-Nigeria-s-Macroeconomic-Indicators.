@@ -2,8 +2,6 @@
 
 This report provides an analysis of Nigeria’s macroeconomic environment between 2021 and 2024, based on the continuation of reforms, fiscal policies, and global economic headwinds. The insights are derived from the **NESG Research** and **Central Bank of Nigeria (CBN)** data.  
 
-
-
 ## 🔎 Executive Summary
 - Nigeria’s economy in **2024** was shaped by reforms such as:
   - **Unified exchange rate** (to reduce distortions).
@@ -15,9 +13,16 @@ Despite these efforts, the economy faced **fragile conditions** due to:
 - **High inflation** (peaked at **34.4% in Q4 2024**).
 - **High interest rates** (above **30% in 2024**).
 - Weak **capital inflows** (below **US$0.5 billion in 2024 Q1–Q3**).
-- Rising **public debt** (₦142.7 trillion by Q4 2024).  
+- Rising **public debt** (₦142.7 trillion by Q4 2024).
 
+  
+## Graphical Illustration: Evolution of Nigeria's Macroeconomic Indicators.
 
+<img width="953" height="470" alt="NESGNigerian Economy (2021–2024) png1" src="https://github.com/user-attachments/assets/7aa57ea9-bbf0-4d3b-af46-45aebc8ecba7" /> 
+<img width="450" height="469" alt="NESGNigerian Economy (2021–2024) png2" src="https://github.com/user-attachments/assets/660b63f8-e0a6-4d19-b591-593fbe5fe5b7" />
+
+### Data: NBS, Central Bank of Nigeria.    
+#### Calculations: A Quater on Quarter performance analysis to account for short-term policy impacts.
 
 ## 📈 Key Macroeconomic Indicators (Highlights)
 
